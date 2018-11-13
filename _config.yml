@@ -28,3 +28,10 @@ header_pages:
 - dangtoan.md
 plugins:
 - jekyll-feed
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
