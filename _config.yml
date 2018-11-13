@@ -22,8 +22,9 @@ markdown: kramdown
 theme: minima
 show_excerpts: true
 header_pages:
-- consulting.md
-- courses.md
-- blog.md
+- tuvung.md
+- nguphap.md
+- dethi.md
+- dangtoan.md
 plugins:
 - jekyll-feed
