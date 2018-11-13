@@ -1,5 +1,5 @@
 ---
-title: Khoá học
+title: Ngữ pháp
 permalink: "/courses/dapp.html"
 layout: default
 ---
