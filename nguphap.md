@@ -1,6 +1,6 @@
 ---
 title: Ngữ pháp
-permalink: "/courses/dapp.html"
+permalink: "/nguphap/cautruc.html"
 layout: default
 ---
 
