@@ -2,17 +2,21 @@
 layout: default
 ---
 
-**Trada.Tech là trang kiến thức dễ hiểu và trong sáng về công nghệ Blockchain.**
+**emath.cf là trang web chia sẻ các Đề thi Toán Tiếng Anh quốc tế và giúp người học dễ dàng tiếp cận hơn**
 
-Gạt đi những ầm ĩ của bong bóng và các vụ lừa đảo, ở cốt lõi của mình, Blockchain là một công nghệ rất đáng giá. Những ồn ào lắng xuống sẽ cho phép các nhóm R&D tập trung vào việc giải quyết các vấn đề then chốt giúp cho công nghệ này trưởng thành.
+Hiện nay phong trào tham dự các kỳ thi Toán Tiếng Anh quốc tế đang ngày càng nở rộ tại Việt Nam. Việc tham dự các kỳ thi này giúp các em học sinh:
+- Có động lực, hứng thu để học Toán và Tiếng Anh
+- Có sân chơi tầm châu lục để thử thách, rèn luyện tư duy bản thân
+- Chuẩn bị cho kỳ thi SAT
+- Tăng cơ hội du học tại Mỹ
 
-Mục tiêu của chúng tôi là cung cấp kiến thức để gỡ bỏ bớt rào cản ban đầu, giúp mọi người dễ dàng tiếp cận với công nghệ này hơn.
+Trang web cập nhật và chia sẻ các đề thi Toán Tiếng Anh quốc tế từ trước tới nay như AMO, AMC, IKMC, SASMO, IMAS... Các đề thi được sắp xếp phân loại theo từng kỳ thi và năm thi. Bên cạnh đó, trang web liệt kê các Dạng Toán, các Từ vựng, các cấu trúc Ngữ pháp có liên quan đến các đề thi tạo công cụ để người học ghi nhớ, rèn luyện các kỹ năng liên quan.
 
-Đối tượng bạn đọc phù hợp bao gồm:
-- Những bạn chưa hiểu nhưng có quan tâm hoặc tò mò về công nghệ Blockchain
-- Những bạn muốn tìm hiểu để xem có thể ứng dụng được các ưu điểm của Blockchain vào giải pháp công nghệ đã có của mình không
-- Những người đã có hiểu biết ban đầu hoặc đã làm việc với Blockchain trong 1 lĩnh vực cụ thể, muốn tìm hiểu về công nghệ và tiềm năng của Blockchain ở mức tổng quát hơn
+Đối tượng phù hợp bao gồm:
+- Các học sinh từ lớp 1 đến lớp 9
+- Phụ huynh
+- Giáo viên
 
-Nội dung của trang web này đang được xây dựng. Bạn có thể bookmark và quay lại sau.
+Nội dung của trang web được cập nhật liên tục. Bạn có thể bookmark và quay lại sau.
 
-> Đọc chia sẻ từ founder - [Trada Tech làm gì và tại sao](/2018/10/29/gioi-thieu-trada-tech.html).
+> Đọc chia sẻ từ founder - [Toán Tiếng Anh đam mê và phương pháp](/2018/10/29/gioi-thieu.html).
