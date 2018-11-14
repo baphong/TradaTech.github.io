@@ -19,7 +19,11 @@ Criteria
 
 **D**
 
-divide
+[divide](divide.html),
+
+**R**
+
+[remainder](remainder.html),
 
 **S**
 
