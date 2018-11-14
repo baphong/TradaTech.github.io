@@ -1,6 +1,8 @@
 ---
 title: arrange
 date: 2018-11-14 13:00:00 +07:00
+permalink: arrange.html
+layout: default
 ---
 
 sắp xếp<br>
