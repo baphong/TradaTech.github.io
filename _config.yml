@@ -15,11 +15,9 @@ defaults:
     image: "/assets/img/trada_cover.png"
 author: Thầy Bá Phong
 email: baphong80@gmail.com
-description: 'Trang web chia sẻ các đề thi Toán Tiếng Anh quốc tế, đồng thời
-  hỗ trợ người học tra cứu theo [Dạng Toán](dangtoan.html), [Từ vựng](tuvung.html)
-  và [Ngữ pháp](nguphap.html).
-
-'
+description: Trang web chia sẻ các [Đề thi](dethi.html) Toán Tiếng Anh quốc
+  tế, đồng thời hỗ trợ người học tra cứu theo [Dạng Toán](dangtoan.html),
+  [Từ vựng](tuvung.html) và [Ngữ pháp](nguphap.html).
 twitter_username: baphong80
 github_username: baphong
 rss: rss
