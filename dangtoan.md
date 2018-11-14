@@ -5,15 +5,13 @@ permalink: "/dangtoan.html"
 layout: default
 ---
 
-**Các dạng toán thường xuất hiện trong các đề thi Toán Tiếng Anh**
-
-**Số học** 
+**Số học**
 
 1. Tính chất chia hết
 
 2. Tối giản phân số
 
-**Hình học** 
+**Hình học**
 
 1. Tính chất chia hết
 
