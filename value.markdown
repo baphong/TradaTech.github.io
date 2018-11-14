@@ -7,7 +7,7 @@ layout: default
 
 **ngữ âm:** valyo͞o
 
-**danh từ: **giá trị
+**danh từ**: giá trị
 
 * the regard that something is held to deserve; the importance, worth, or usefulness of something.
 
