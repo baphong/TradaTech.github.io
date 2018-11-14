@@ -5,16 +5,28 @@ permalink: "/nguphap.html"
 layout: default
 ---
 
-## Cấu trúc ngữ pháp
+**Present and past**
 
-**Hiện tại**
+1. Present continuous (I am doing)
 
-1. Hiện tại đơn
+2. Present simple (I do)
 
-2. Thể bị động ở hiện tại
+3. Past simple (I did)
 
-**Thể bị đông**
+4. Past continuous (I was doing)
 
-1. Bị động ở hiện tại
+**Present perfect and past**
 
-2. Thể bị động ở hiện tại
+5. Present perfect 1 (I have done) 
+
+6. Present perfect continuous (I have been doing) 
+
+7. Present perfect continuous and simple (I have been doing and I have done) 
+
+8. How long have you (been)... ? 
+
+9. For and since When ... ? and How long ... ? 
+
+10. Have and have got 
+
+11. Used to (do)
