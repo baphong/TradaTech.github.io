@@ -1,7 +1,7 @@
 ---
 title: Giới thiệu
 date: 2018-11-13 07:52:00 +07:00
-permalink: about
+permalink: about.html
 about: 
 ---
 
