@@ -5,21 +5,24 @@ permalink: tuvung.html
 layout: default
 ---
 
-## Các từ thường xuất hiện trong các đề thi Toán Tiếng Anh
+## Từ vựng
 
 **A**
-<p></p>
-[Arrange](arrange.html)
-<p></p>
+
+[Arrange](arrange.html), 
+
 **B**
-<p></p>
-Below
-<p></p>
+
+Below, 
+
 **C**
-<p></p>
+
 Criteria
-<p></p>
+
 **D**
-<p></p>
+
 divide
-<p></p>
+
+**V**
+
+[value](value.html), 
