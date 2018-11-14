@@ -17,7 +17,7 @@ lang: vi
 description: Đề thi Toán Tiếng Anh quốc tế
 baseurl: "/"
 url: https://emath.siteleaf.net
-google_analytics: UA-8597504-5
+google_analytics: 
 markdown: kramdown
 theme: minima
 show_excerpts: true
