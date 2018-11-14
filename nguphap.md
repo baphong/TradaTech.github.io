@@ -1,6 +1,7 @@
 ---
 title: Ngữ pháp
-permalink: "/nguphap/cautruc.html"
+date: 2018-11-14 09:37:00 +07:00
+permalink: "/nguphap.html"
 layout: default
 ---
 
