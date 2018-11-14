@@ -9,7 +9,7 @@ layout: default
 
 **A**
 <p></p>
-[Arrange.](arrange.html)
+[Arrange](arrange.html)
 <p></p>
 **B**
 <p></p>
