@@ -1,0 +1,13 @@
+---
+title: imas 2017 up r1 01
+date: 2018-11-14 09:28:00 +07:00
+categories:
+- imas
+tags:
+- imas
+- '2017'
+- up
+---
+
+1. What is the simplified value of (20 x 17)/(2 + 0 + 1 + 7)?
+A）340 （B）34/2017 （C）10 （D）20 （E）34
