@@ -6,12 +6,14 @@ permalink: imas-2017-up-r1-01.html
 
 What is the [simplified](simplify.html) [value](value.html) of (20 x 17)/(2 \+ 0 \+ 1 \+ 7)?
 
-\(A)340
+\(A) 340
 
-\(B)34/2017
+\(B) 34/2017
 
-\(C)10
+\(C) 10
 
-\(D)20
+\(D) 20
 
-\(E)34
+\(E) 34
+
+[Lời giải](loi-giai-imas-2017-up-r1-01.html)
