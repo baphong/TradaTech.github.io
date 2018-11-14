@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  de-thi:
+    title: Đề thi
+    output: true
 defaults:
 - scope:
     path: ''
