@@ -1,0 +1,18 @@
+---
+title: imas 2017 up r1 02
+date: 2018-11-14 16:26:00 +07:00
+---
+
+What is the [remainder](remainder.html) when 2017 is [divided](divide.html) by 9?
+
+\(A) 0 
+
+\(B) 1
+
+\(C) 2 
+
+\(D) 3
+
+\(E) 7
+
+[Lời giải](loi-giai-imas-2017-up-r1-02.html)
