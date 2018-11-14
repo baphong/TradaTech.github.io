@@ -9,11 +9,11 @@ layout: default
 
 **A**
 
-[arrange](arrange.html), 
+[arrange](arrange.html),
 
 **B**
 
-Below, 
+Below,
 
 **C**
 
@@ -23,6 +23,10 @@ Criteria
 
 divide
 
+**S**
+
+[simplify](simplify.html), 
+
 **V**
 
-[value](value.html), 
+[value](value.html),
