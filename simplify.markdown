@@ -9,8 +9,10 @@ layout: default
 
 **động từ**: đơn giản hóa
 
-- make (something) simpler or easier to do or understand.
+* make (something) simpler or easier to do or understand.
 
 an overhaul of court procedure to simplify litigation
 
-từ đồng nghĩa: make simple/simpler, make easy/easier to understand, make plainer, clarify, 
+từ đồng nghĩa: make simple/simpler, make easy/easier to understand, make plainer, clarify,
+
+[imas 2017 up r1 01](imas-2017-up-r1-01.html),
