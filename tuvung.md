@@ -5,8 +5,6 @@ permalink: tuvung.html
 layout: default
 ---
 
-## Từ vựng
-
 **A**
 
 [arrange](arrange.html),
@@ -25,7 +23,7 @@ divide
 
 **S**
 
-[simplify](simplify.html), 
+[simplify](simplify.html),
 
 **V**
 
