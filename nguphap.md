@@ -7,7 +7,7 @@ layout: default
 
 **Present and past**
 
-1. Present continuous (I am doing)
+1. [Present continuous (I am doing)](present-continuous.html)
 
 2. Present simple (I do)
 
@@ -17,16 +17,16 @@ layout: default
 
 **Present perfect and past**
 
-5. Present perfect 1 (I have done) 
+1. Present perfect 1 (I have done)
 
-6. Present perfect continuous (I have been doing) 
+2. Present perfect continuous (I have been doing)
 
-7. Present perfect continuous and simple (I have been doing and I have done) 
+3. Present perfect continuous and simple (I have been doing and I have done)
 
-8. How long have you (been)... ? 
+4. How long have you (been)... ?
 
-9. For and since When ... ? and How long ... ? 
+5. For and since When ... ? and How long ... ?
 
-10. Have and have got 
+6. Have and have got
 
-11. Used to (do)
+7. Used to (do)
