@@ -1,6 +1,6 @@
 ---
 title: Dạng Toán
-permalink: "/dangtoan/"
+permalink: "/dangtoan.html"
 layout: home
 ---
 
