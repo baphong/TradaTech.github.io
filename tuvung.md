@@ -7,14 +7,14 @@ layout: default
 
 ## Danh sách các từ vựng thường xuất hiện trong các đề thi Toán Tiếng Anh
 
-**A
-#[Arrange](/t-arrange.html)
-**B
-#Below
-**C
-#Criteria
-**D
-#divide
+**A**
+[Arrange](arrange.html)
+**B**
+Below
+**C**
+Criteria
+**D**
+divide
 
 ### Liên hệ:
 
