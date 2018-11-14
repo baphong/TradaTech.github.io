@@ -1,6 +1,7 @@
 ---
 title: imas 2017 up r1 01
 date: 2018-11-14 12:50:00 +07:00
+permalink: imas-2017-up-r1-01.html
 ---
 
 1. What is the simplified value of (20 x 17)/(2 \+ 0 \+ 1 \+ 7)?
