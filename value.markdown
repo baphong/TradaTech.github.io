@@ -50,3 +50,5 @@ từ đồng nghĩa: evaluate, assess, estimate, appraise, price, put/set a pric
 she had come to value her privacy and independence
 
 *từ đồng nghĩa*: think highly of, have a high opinion of, hold in high regard, rate highly, esteem
+
+[imas 2017 up r1 01](imas-2017-up-r1-01.html),  
