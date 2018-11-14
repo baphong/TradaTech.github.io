@@ -5,11 +5,11 @@ permalink: tuvung.html
 layout: default
 ---
 
-## Danh sách các từ vựng thường xuất hiện trong các đề thi Toán Tiếng Anh
+## Các từ thường xuất hiện trong các đề thi Toán Tiếng Anh
 
 **A**
 <p></p>
-[Arrange](arrange.html)
+[Arrange.](arrange.html)
 <p></p>
 **B**
 <p></p>
