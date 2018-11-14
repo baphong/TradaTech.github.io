@@ -1,5 +1,5 @@
 ---
-title: Đề thi Toán Tiếng Anh
+title: Toán Tiếng Anh
 timezone: Asia/Bangkok
 collections:
   posts:
@@ -13,18 +13,19 @@ defaults:
     path: ''
   values:
     image: "/assets/img/trada_cover.png"
-lang: vi
-description: Đề thi Toán Tiếng Anh quốc tế
-baseurl: "/"
-url: https://emath.siteleaf.net
-google_analytics: 
-markdown: kramdown
+author: Thầy Bá Phong
+email: baphong80@gmail.com
+description: 'Trang web chia sẻ các đề thi Toán Tiếng Anh quốc tế, đồng thời
+  hỗ trợ người học tra cứu theo Dạng Toán, Từ vựng và Ngữ pháp.
+
+'
+twitter_username: baphong80
+github_username: baphong
+rss: rss
+show_excerpts: false
+minima:
+  date_format: "%b %-d, %Y"
 theme: minima
-show_excerpts: true
-header_pages:
-- dethi.md
-- dangtoan.md
-- tuvung.md
-- nguphap.md
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
