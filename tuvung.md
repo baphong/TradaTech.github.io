@@ -8,16 +8,18 @@ layout: default
 ## Danh sách các từ vựng thường xuất hiện trong các đề thi Toán Tiếng Anh
 
 **A**
+<p></p>
 [Arrange](arrange.html)
+<p></p>
 **B**
+<p></p>
 Below
+<p></p>
 **C**
+<p></p>
 Criteria
+<p></p>
 **D**
+<p></p>
 divide
-
-### Liên hệ:
-
-* Email: <a href="mailto:baphong@gmail.com" target="_blank">baphong@gmail.com</a>
-
-* Telegram: <a href="https://t.me/honglamsg" target="_blank">@honglamsg</a>
+<p></p>
