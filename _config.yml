@@ -22,9 +22,9 @@ markdown: kramdown
 theme: minima
 show_excerpts: true
 header_pages:
-- tuvung.md
-- nguphap.md
 - dethi.md
 - dangtoan.md
+- tuvung.md
+- nguphap.md
 plugins:
 - jekyll-feed
