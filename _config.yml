@@ -8,10 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  dethi:
-    title: Đề thi
-    output: true
-    permalink: dethi
 defaults:
 - scope:
     path: ''
