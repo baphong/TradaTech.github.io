@@ -4,6 +4,14 @@ date: 2018-11-14 12:50:00 +07:00
 permalink: imas-2017-up-r1-01.html
 ---
 
-1. What is the simplified value of (20 x 17)/(2 \+ 0 \+ 1 \+ 7)?
+What is the [simplified](simplify.html) [value](value.html) of (20 x 17)/(2 \+ 0 \+ 1 \+ 7)?
 
-   \(A)340  (B)34/2017 (C)10 (D)20 (E)34
+\(A)340
+
+\(B)34/2017
+
+\(C)10
+
+\(D)20
+
+\(E)34
