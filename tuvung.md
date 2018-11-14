@@ -8,13 +8,13 @@ layout: default
 ## Danh sách các từ vựng thường xuất hiện trong các đề thi Toán Tiếng Anh
 
 <p> </p>
-## A
+**A**
 Arrange
-## B
+**B**
 Below
-## C
+**C**
 Criteria
-## D
+**D**
 divide
 
 ### Liên hệ:
