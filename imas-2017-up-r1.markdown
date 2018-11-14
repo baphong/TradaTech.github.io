@@ -5,4 +5,12 @@ date: 2018-11-14 19:31:00 +07:00
 
 **imas 2017 up r1**: đề thi và lời giải
 
-[01](imas-2017-up-r1-01.html), [02](imas-2017-up-r1-02.html), 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25
+[bài 01](imas-2017-up-r1-01.html), [bài 02](imas-2017-up-r1-02.html), [bài 03](imas-2017-up-r1-03.html), [bài 04](imas-2017-up-r1-04.html),[ bài 05](imas-2017-up-r1-05.html)
+
+[bài 06](imas-2017-up-r1-06.html), [bài 07](imas-2017-up-r1-07.html), bài 08, bài 09, bài 10
+
+bài 11, bài 12, bài 13, bài 14, bài 15
+
+bài 16, bài 17, bài 18, bài 19, bài 20
+
+bài 21, bài 22, bài 23, bài 24, bài 25
