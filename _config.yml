@@ -28,6 +28,11 @@ twitter_username: baphong80
 github_username: baphong
 rss: rss
 show_excerpts: false
+header_pages:
+- dethi.md
+- dangtoan.md
+- tuvung.md
+- nguphap.md
 minima:
   date_format: "%b %-d, %Y"
 theme: minima
