@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**emath.cf là trang web chia sẻ các Đề thi Toán Tiếng Anh quốc tế và giúp người học dễ dàng tiếp cận hơn**
+**Trang web chia sẻ các Đề thi Toán Tiếng Anh quốc tế và giúp người học tra cứu Dạng Toán, Từ vựng, Ngữ pháp **
 
 Hiện nay phong trào tham dự các kỳ thi Toán Tiếng Anh quốc tế đang ngày càng nở rộ tại Việt Nam. Việc tham dự các kỳ thi này giúp các em học sinh:
 - Có động lực, hứng thu để học Toán và Tiếng Anh
