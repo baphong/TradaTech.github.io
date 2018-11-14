@@ -1,9 +1,10 @@
 ---
+title: Giới thiệu
 layout: default
 ---
 
-**Trang web chia sẻ các Đề thi Toán Tiếng Anh quốc tế và giúp người học tra cứu Dạng Toán, Từ vựng, Ngữ pháp **
-
+## Trang web chia sẻ các Đề thi Toán Tiếng Anh quốc tế và giúp người học tra cứu Dạng Toán, Từ vựng, Ngữ pháp 
+<p></p>
 Hiện nay phong trào tham dự các kỳ thi Toán Tiếng Anh quốc tế đang ngày càng nở rộ tại Việt Nam. Việc tham dự các kỳ thi này giúp các em học sinh:
 - Có động lực, hứng thu để học Toán và Tiếng Anh
 - Có sân chơi tầm châu lục để thử thách, rèn luyện tư duy bản thân
