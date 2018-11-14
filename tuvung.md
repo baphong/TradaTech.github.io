@@ -1,21 +1,24 @@
 ---
 title: Từ vựng
+date: 2018-11-14 09:54:00 +07:00
+permalink: tuvung.html
 layout: default
 ---
 
-## Bạn đang muốn ứng dụng blockchain nhưng chưa biết bắt đầu từ đâu?
+## Danh sách các từ vựng thường xuất hiện trong các đề thi Toán Tiếng Anh
 <p> </p>
+##A
+Arrange
+##B
+Below
+##C
+Criteria
+##D
+divide
 
-Không có gì phải lo. Chúng tôi có thể giúp.
 
-Cho dù là bạn muốn tạo ra 1 blockchain mới hay chỉ muốn ứng dụng 1 blockchain đã có. Dù trong 1 lĩnh vực cụ thể, hay là cung cấp 1 nền tảng tổng quát. Chúng tôi có thể giúp.
-
-1. Hiểu rõ bản chất blockchain có thể ứng dụng vào lĩnh vực của bạn như thế nào
-2. Cùng thảo luận và chấp bút các paper và high-level design
-3. Viết bài blog (Anh/Việt) chất lượng cao giải thích dự án của bạn cho cộng đồng dễ hiểu
-4. Giới thiệu các đơn vị có năng lực có thể đảm đương các công việc liên quan tiếp theo
 
 ### Liên hệ:
 
-- Email: <a href="mailto:thi@tradatech.vn" target="_blank">thi@tradatech.vn</a>
-- Telegram: <a href="https://t.me/mangcut" target="_blank">@mangcut</a>
+- Email: <a href="mailto:baphong@gmail.com" target="_blank">baphong@gmail.com</a>
+- Telegram: <a href="https://t.me/honglamsg" target="_blank">@honglamsg</a>
