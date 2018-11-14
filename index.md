@@ -19,4 +19,4 @@ Trang web cập nhật và chia sẻ các đề thi Toán Tiếng Anh qu�
 
 Nội dung của trang web được cập nhật liên tục. Bạn có thể bookmark và quay lại sau.
 
-> Đọc chia sẻ từ founder - [Toán Tiếng Anh đam mê và phương pháp](/2018/10/29/gioi-thieu.html).
+> Đọc chia sẻ từ founder - [Toán Tiếng Anh đam mê và phương pháp](/about.html).
