@@ -1,6 +1,6 @@
 ---
 title: Trada Tech làm gì và tại sao
-date: 2018-10-29 00:00:00 Z
+date: 2018-10-29 07:00:00 +07:00
 layout: post
 author: Trương Hồng Thi
 excerpt: Chia sẻ từ founder dự án.

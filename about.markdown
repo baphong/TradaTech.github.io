@@ -1,6 +1,6 @@
 ---
 title: Giới thiệu
-date: 2018-11-13 00:52:00 Z
+date: 2018-11-13 07:52:00 +07:00
 permalink: about
 about: 
 ---
