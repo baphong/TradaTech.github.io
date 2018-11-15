@@ -6,9 +6,9 @@ layout: default
 
 Trang web cập nhật và chia sẻ các:
 
-* [Đề thi Toán Tiếng Anh](dethi.html) 
+* [Đề thi ](dethi.html)
 
-và lời giải từ trước tới nay như AMO, AMC, IKMC, SASMO, IMAS... 
+Toán Tiếng Anh và lời giải của các kỳ thi quốc tế như AMO, AMC, IKMC, SASMO, IMAS...
 
 Bên cạnh đó, trang web liệt kê và phân loại để người học có thể tra cứu theo:
 
