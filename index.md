@@ -4,13 +4,17 @@ date: 2018-11-14 15:19:00 +07:00
 layout: default
 ---
 
-Trang web cập nhật và chia sẻ các [Đề thi](dethi.html) và lời giải Toán Tiếng Anh quốc tế từ trước tới nay như AMO, AMC, IKMC, SASMO, IMAS... Các đề thi được sắp xếp phân loại theo từng kỳ thi và năm thi. 
+Trang web cập nhật và chia sẻ các:
+
+* [Đề thi Toán Tiếng Anh](dethi.html) 
+
+và lời giải từ trước tới nay như AMO, AMC, IKMC, SASMO, IMAS... 
 
 Bên cạnh đó, trang web liệt kê và phân loại để người học có thể tra cứu theo:
 
 * [Dạng Toán](dangtoan.html)
 
-* [Từ vựng](tuvung.html) 
+* [Từ vựng](tuvung.html)
 
 * [Ngữ pháp](nguphap.html)
 
