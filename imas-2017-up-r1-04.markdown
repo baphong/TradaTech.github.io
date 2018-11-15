@@ -6,3 +6,5 @@ date: 2018-11-15 16:19:00 +07:00
 Arrange the numbers 2.718, 2.718 , 2.718 and 2.71828 in increasing order. (Repeating decimals are denoted by drawing a horizontal bar above the recurring  figures.)
 
 ![01.JPG](/uploads/01.JPG)
+
+Lời giải
