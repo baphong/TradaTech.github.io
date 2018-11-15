@@ -16,4 +16,4 @@ Với công cụ này, người học có thể tra cứu theo
 
 * [Ngữ pháp](nguphap.html)
 
-Khi giải từng bài toán trong các Đề thi, công cụ cung cấp sẵn liên kết dẫn tới Dạng toán, Từ vựng, hoặc cấu trúc Ngữ pháp có liên quan, người học sẽ dần dần tích lũy được vốn từ vựng Toán Tiếng Anh phong phú, quen thuộc với các cấu trúc ngữ pháp thường xuất hiện trong các đề thi, đồng thời rèn luyện tư duy logic, kỹ năng giải quyết vấn đề. Từ đó nâng cao trình độ giải toán và đạt kết quả cao trong các kỳ thi.
+Khi giải từng bài toán trong các [Đề thi](dethi.html), công cụ cung cấp sẵn liên kết dẫn tới [Dạng toán](dangtoan.html), [Từ vựng](tuvung.html), hoặc cấu trúc [Ngữ pháp](nguphap.html) có liên quan, người học sẽ dần dần tích lũy được vốn từ vựng Toán Tiếng Anh phong phú, quen thuộc với các cấu trúc ngữ pháp thường xuất hiện trong các đề thi, đồng thời rèn luyện tư duy logic, kỹ năng giải quyết vấn đề. Từ đó nâng cao trình độ giải toán và đạt kết quả cao trong các kỳ thi.
