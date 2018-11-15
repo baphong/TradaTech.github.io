@@ -7,4 +7,4 @@ Arrange the numbers 2.718, 2.718 , 2.718 and 2.71828 in increasing order. (Repea
 
 ![01.JPG](/uploads/01.JPG)
 
-Lời giải
+[Lời giải](loi-giai-imas-2017-up-r1-04.html)
