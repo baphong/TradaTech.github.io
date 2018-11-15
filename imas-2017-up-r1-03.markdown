@@ -16,3 +16,5 @@ Positive integers are arranged in the array as shown below, what is the sum of a
 ⋮
 
 （A）91 （B）164 （C）172 （D）189 （E）215
+
+[Lời giải](loi-giai-imas-2017-up-r1-03.html)
